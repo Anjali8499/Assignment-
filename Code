@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>
+        ENJOY HTML!
+   </title>
+        <link rel="favicon"  href="https://tse3.mm.bing.net/th?id=OIP.phRmTdNA2YnGny5fAaNHLgHaEK&pid=Api&P=0&w=369&h=208" type="image/x-icon"> 
+    </head>
+    <h1 style="text-decoration: underline;",style="color: green;">
+        
+        HTML TAGS!
+    </h1>
+    <body>
+        <h2 style="color: red;"> IMAGE TAGS</h2>
+        <img src="HTML FILES/first.jpg" width=400px height=300px alt="first image" />
+        <img src="HTML FILES/2.jpg" width=400px  height=300px alt="second image" />
+        <img src="HTML FILES/3.jpg" width=300px alt="third image" />
+        <img src="HTML FILES/4.jpg" width=400px alt="fourth image" />
+        <img src="HTML FILES/5.jpg" width=400px alt="fifth image" />
+
+    <br>
+    </br>
+    <h3 style="color: blue;">
+        VIDEO TAGS
+    </h3>
+        <video  width="400" height="300" controls>
+            <source src="HTML FILES/mov_bbb.mp4" />
+        </video>
+       <video width="400" height="300"controls>
+            <source src="HTML FILES/telepoorte_fnl.mp4"  width=400px height=300px />
+        </video>
+        <video width="400" height="300"controls>
+            <source src="HTML FILES/Learn HTML in 1 minute (FOR REAL).mp4"  width=400px height=300px />
+        </video>
+
+
+        <h4 style="color: brown;">
+            AUDIO TAGS
+         </h4>
+       <audio width="400" controls>
+            <source src="HTML FILES/AURORA - Runaway (Lyrics).mp6" />
+        </audio>
+        <audio width="400" controls>
+            <source src="HTML FILES/HAPPY - Pharrell Williams (feat. Minions).mp6" />
+        </audio>
+    </body>
+
+</html>
