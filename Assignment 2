@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            First HTML Page!
+        </title>
+        <style>
+            body{
+                background-color: turquoise;
+
+            }
+        </style>
+        <link rel="stylesheet" href="second.css" >
+    </head>
+    <body>
+        <p style="color: white; font-size: larger;">
+            We can design a web page using HTML and CSS!
+        </p>
+       
+        <p class="one">
+            Tags are used to make changes in HTML and CSS !
+        </p>
+
+    </body>
+</html>
